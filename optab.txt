@@ -1,0 +1,3 @@
+LDA	00
+STA	0C
+MUL	20
